@@ -1,0 +1,1 @@
+export { default as StatisticalView } from './statistical-employe';
